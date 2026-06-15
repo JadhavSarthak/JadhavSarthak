@@ -5,13 +5,13 @@
 </p>
 
 <p align="center">
-  <a href="mailto:your.email@example.com">
+  <a href="mailto:sarthaksjadhav45@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://linkedin.com/in/your-profile">
+  <a href="https://www.linkedin.com/in/sarthak-jadhav-aiml/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://github.com/your-username">
+  <a href="https://github.com/JadhavSarthak">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
@@ -60,10 +60,9 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=default&hide_border=true&count_private=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=default&hide_border=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=JadhavSarthak&show_icons=true&theme=default&hide_border=true&count_private=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JadhavSarthak&layout=compact&theme=default&hide_border=true" height="165" />
 </p>
-
 ---
 
 ## 🚀 Current Focus
